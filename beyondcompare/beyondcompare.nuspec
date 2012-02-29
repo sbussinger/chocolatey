@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>beyondcompare</id>
+    <title>Beyond Compare</title>
+    <version>2.5.3</version>
+    <authors>Scooter Software Inc.</authors>
+    <owners>sbussinger</owners>
+    <description>Beyond Compare is a great file and folder comparison tool. Beyond Compare is a commercial product.</description>
+    <projectUrl>http://www.scootersoftware.com/</projectUrl>
+    <tags>compare diff merge admin</tags>
+    <licenseUrl>http://www.scootersoftware.com/index.php?zz=kb_license</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <iconUrl>https://github.com/sbussinger/chocolatey/raw/master/beyondcompare/beyondcompare.png</iconUrl>
+  </metadata>
+</package>
