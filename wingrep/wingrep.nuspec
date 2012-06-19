@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>wingrep</id>
+    <title>Windows Grep</title>
+    <version>2.3</version>
+    <authors>Huw Millington</authors>
+    <owners>sbussinger</owners>
+    <description>Windows Grep is a Windows GUI version of the traditional grep searching utility. Windows Grep is a shareware product.</description>
+    <projectUrl>http://wingrep.com/</projectUrl>
+    <tags>grep search admin</tags>
+    <licenseUrl>http://www.wingrep.com/register.htm</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <iconUrl>https://github.com/sbussinger/chocolatey/raw/master/wingrep/wingrep.png</iconUrl>
+  </metadata>
+</package>
