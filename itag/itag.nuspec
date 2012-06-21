@@ -3,13 +3,13 @@
   <metadata>
     <id>itag</id>
     <title>iTag</title>
-    <version>0.481</version>
+    <version>0.483</version>
     <authors>Metalogic</authors>
     <owners>sbussinger</owners>
-    <description>Photo Tagging Software that embeds title, description and keywords into your photos and movies.</description>
+    <description>Photo tagging software that embeds title, description and keywords into your photos and movies.</description>
     <projectUrl>http://www.itagsoftware.com/</projectUrl>
     <tags>itag photo picture video tagging iptc xmp admin</tags>
-    <licenseUrl>http://www.wingrep.com/register.htm</licenseUrl>
+    <licenseUrl>http://www.itagsoftware.com/buy.php</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <iconUrl>https://github.com/sbussinger/chocolatey/raw/master/itag/itag.png</iconUrl>
   </metadata>
