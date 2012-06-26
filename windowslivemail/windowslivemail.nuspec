@@ -1,0 +1,21 @@
+﻿<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <version>2011.0.0</version>
+    <authors>Microsoft</authors>
+    <owners>sbussinger</owners>
+    <projectUrl>http://www.microsoft.com/download/en/details.aspx?id=8621</projectUrl>
+    <iconUrl>https://github.com/sbussinger/chocolatey/raw/master/windowslivemail/windowslivemail.png</iconUrl>
+    <id>WindowsLiveMail</id>
+    <title>Windows Live Mail</title>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Manage multiple email accounts, calendars, and your contacts, even when you're offline.</description>
+    <tags>mail email windows live mail admin</tags>
+    <dependencies>
+      <dependency id="WindowsLiveInstaller" />
+    </dependencies>  
+  </metadata>
+  <files>
+    <file src="tools\**\*.*" />
+  </files>
+</package>
