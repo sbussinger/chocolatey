@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>shazzam</id>
+    <title>Shazzam</title>
+    <version>1.3</version>
+    <authors>Walt Ritscher</authors>
+    <owners>sbussinger</owners>
+    <description>WPF/Silverlight Pixel Shader Utility</description>
+    <projectUrl>http://shazzam-tool.com/</projectUrl>
+    <tags>shazzam wpf silverlight shader admin</tags>
+    <licenseUrl>http://shazzam-tool.com/</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <iconUrl>https://github.com/sbussinger/chocolatey/raw/master/shazzam/shazzam.png</iconUrl>
+  </metadata>
+</package>
