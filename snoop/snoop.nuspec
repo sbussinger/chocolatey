@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>snoop</id>
+    <title>Snoop</title>
+    <version>2.7.1</version>
+    <authors>Cory Plotts</authors>
+    <owners>sbussinger</owners>
+    <description>Snoop allows you to spy/browse the visual tree of a running WPF application (without the need for a debugger) … and change properties ... amongst other things.</description>
+    <projectUrl>http://snoopwpf.codeplex.com/</projectUrl>
+    <tags>snoop spy wpf</tags>
+    <licenseUrl>http://snoopwpf.codeplex.com/license</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <iconUrl>https://github.com/sbussinger/chocolatey/raw/master/snoop/snoop.png</iconUrl>
+  </metadata>
+</package>
