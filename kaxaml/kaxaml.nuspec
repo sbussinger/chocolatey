@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>kaxaml</id>
+    <title>Kaxaml</title>
+    <version>1.8</version>
+    <authors>Robby Ingebretsen</authors>
+    <owners>sbussinger</owners>
+    <description>Kaxaml is a lightweight XAML editor that gives you a "split view" so you can see both your XAML and your rendered content (kind of like XamlPad but without the gigabyte of SDK).</description>
+    <projectUrl>http://kaxaml.com/</projectUrl>
+    <tags>kaxaml wpf silverlight xaml editor admin</tags>
+    <licenseUrl>http://www.opensource.org/licenses/mit-license.php</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <iconUrl>https://github.com/sbussinger/chocolatey/raw/master/kaxaml/kaxaml.png</iconUrl>
+  </metadata>
+</package>
