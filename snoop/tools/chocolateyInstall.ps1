@@ -1,6 +1,6 @@
 try {
   # This doesn't work because you can't download from codeplex directly
-  #Install-ChocolateyZipPackage 'snoop' 'http://snoopwpf.codeplex.com/downloads/get/375553' "$(Split-Path -parent $MyInvocation.MyCommand.Definition)"
+  #Install-ChocolateyZipPackage 'snoop' 'http://snoopwpf.codeplex.com/downloads/get/500775' "$(Split-Path -parent $MyInvocation.MyCommand.Definition)"
 
   # Create a desktop link to snoop executable
   $parentfolder = Split-Path -parent $MyInvocation.MyCommand.Definition
