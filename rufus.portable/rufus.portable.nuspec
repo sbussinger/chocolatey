@@ -3,7 +3,7 @@
   <metadata>
     <id>rufus.portable</id>
     <title>Rufus (Portable)</title>
-    <version>1.3.4.270</version>
+    <version>1.4.9.506</version>
     <authors>Akeo Consulting</authors>
     <owners>sbussinger</owners>
     <description>Create bootable USB drives the easy way. Rufus is a small utility that helps format and create bootable USB flash drives, such as USB keys/pendrives, memory sticks, etc.</description>
