@@ -11,6 +11,6 @@
     <tags>sd microsd flash card format erase admin</tags>
     <licenseUrl>https://www.sdcard.org/downloads/formatter_4/eula_windows/</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <iconUrl>https://github.com/sbussinger/chocolatey/raw/master/sdformatter/sdformatter.png</iconUrl>
+    <iconUrl>https://cdn.rawgit.com/sbussinger/chocolatey/d62ff0f90bd9cc2e4d235c097e27fefda786dbcb/sdformatter/sdformatter.png</iconUrl>
   </metadata>
 </package>
