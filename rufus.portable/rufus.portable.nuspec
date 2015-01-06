@@ -3,7 +3,7 @@
   <metadata>
     <id>rufus.portable</id>
     <title>Rufus (Portable)</title>
-    <version>1.4.10.514</version>
+    <version>1.4.12.535</version>
     <authors>Akeo Consulting</authors>
     <owners>sbussinger</owners>
     <description>Create bootable USB drives the easy way. Rufus is a small utility that helps format and create bootable USB flash drives, such as USB keys/pendrives, memory sticks, etc.</description>
@@ -11,6 +11,6 @@
     <tags>rufus boot bootable usb flash iso dos</tags>
     <licenseUrl>http://rufus.akeo.ie/</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <iconUrl>https://github.com/sbussinger/chocolatey/raw/master/rufus.portable/rufus.portable.png</iconUrl>
+    <iconUrl>https://cdn.rawgit.com/sbussinger/chocolatey/c461de9cc63682a7538b92ecd97dbc59cd8ab76e/rufus.portable/rufus.portable.png</iconUrl>
   </metadata>
 </package>
