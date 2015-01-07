@@ -3,7 +3,7 @@
   <metadata>
     <id>rufus.portable</id>
     <title>Rufus (Portable) [Deprecated]</title>
-    <version>1.4.12.53501</version>
+    <version>1.4.12.535</version>
     <authors>Akeo Consulting</authors>
     <owners>sbussinger</owners>
     <description>The "rufus.portable" package has been deprecated in favor of the "rufus" package because of Chocolatey naming conventions. Install that package instead. Create bootable USB drives the easy way. Rufus is a small utility that helps format and create bootable USB flash drives, such as USB keys/pendrives, memory sticks, etc.</description>
