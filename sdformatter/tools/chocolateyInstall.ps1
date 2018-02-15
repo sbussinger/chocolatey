@@ -1,17 +1,9 @@
-$packageName = "sdformatter"
-$url = "https://www.sdcard.org/downloads/formatter_4/eula_windows/SDFormatterv4.zip"
-
-try {
-  $scriptFolder = $(Split-Path -parent $MyInvocation.MyCommand.Definition)
-  $zipPath = Join-Path $scriptFolder "SDFormatterv4.zip"
-  $installerPath = Join-Path $scriptFolder "setup.exe"
-
-  Get-ChocolateyWebFile "$packageName" "$zipPath" "$url"
-  Get-ChocolateyUnzip "$zipPath" "$scriptFolder"
-  Install-ChocolateyInstallPackage "$packageName" "EXE" "/S /v/qn" "$installerPath"
-
-  Write-ChocolateySuccess "$packageName"
-} catch {
-  Write-ChocolateyFailure "$packageName" "$($_.Exception.Message)"
-  throw
+$packageArgs = @{
+  packageName   = 'sdformatter'
+  url           = 'https://www.sdcard.org/downloads/formatter_4/eula_windows/SD_CardFormatter0500SetupEN.exe'
+  silentArgs    = "/S /v/qn"
+  checksum      = '26d2494281ef4bded1c50a64ad2aa9fa5edff38d9a0e708f70fba094f6ba901e'
+  checksumType  = 'sha256'
 }
+
+Install-ChocolateyPackage @packageArgs
