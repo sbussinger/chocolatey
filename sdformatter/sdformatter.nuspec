@@ -3,7 +3,7 @@
   <metadata>
     <id>sdformatter</id>
     <title>SD Formatter</title>
-    <version>4.0</version>
+    <version>5.0</version>
     <authors>SD Card Association</authors>
     <owners>sbussinger</owners>
     <description>This software from the SD Card Assocition formats all SD memory cards, SDHC memory cards and SDXC memory cards. SD Formatter provides quick and easy access to the full capabilities of your SD, SDHC and SDXC memory cards. The SD Formatter was created specifically for memory cards using the SD/SDHC/SDXC standards.</description>
