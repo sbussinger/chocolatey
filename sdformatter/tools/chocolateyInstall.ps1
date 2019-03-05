@@ -1,9 +1,9 @@
 $packageName = "sdformatter"
-$url = "https://www.sdcard.org/downloads/formatter_4/eula_windows/SDFormatterv4.zip"
+$url = "https://www.sdcard.org/downloads/formatter_4/eula_windows/SDCardFormatterv5_WinEN.zip"
 
 try {
   $scriptFolder = $(Split-Path -parent $MyInvocation.MyCommand.Definition)
-  $zipPath = Join-Path $scriptFolder "SDFormatterv4.zip"
+  $zipPath = Join-Path $scriptFolder "SDCardFormatterv5_WinEN.zip"
   $installerPath = Join-Path $scriptFolder "setup.exe"
 
   Get-ChocolateyWebFile "$packageName" "$zipPath" "$url"
