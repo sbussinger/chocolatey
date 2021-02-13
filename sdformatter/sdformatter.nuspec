@@ -2,15 +2,16 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
     <id>sdformatter</id>
-    <title>SD Formatter</title>
-    <version>4.0</version>
+    <title>[Deprecated] SD Formatter</title>
+    <version>4.0.0.20210213</version>
     <authors>SD Card Association</authors>
     <owners>sbussinger</owners>
-    <description>This software from the SD Card Assocition formats all SD memory cards, SDHC memory cards and SDXC memory cards. SD Formatter provides quick and easy access to the full capabilities of your SD, SDHC and SDXC memory cards. The SD Formatter was created specifically for memory cards using the SD/SDHC/SDXC standards.</description>
+    <description>This package is no longer supported and has been replaced with sd-card-formatter package</description>
     <projectUrl>https://www.sdcard.org/downloads/formatter_4/</projectUrl>
     <tags>sd microsd flash card format erase admin</tags>
     <licenseUrl>https://www.sdcard.org/downloads/formatter_4/eula_windows/</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <iconUrl>https://cdn.rawgit.com/sbussinger/chocolatey/d62ff0f90bd9cc2e4d235c097e27fefda786dbcb/sdformatter/sdformatter.png</iconUrl>
+    <dependencies><dependency id="sd-card-formatter" version="5.0.1"/></dependencies>
+    <files/>
   </metadata>
 </package>
