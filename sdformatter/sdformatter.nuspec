@@ -11,7 +11,7 @@
     <tags>sd microsd flash card format erase admin</tags>
     <licenseUrl>https://www.sdcard.org/downloads/formatter_4/eula_windows/</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <dependencies><dependency id="sd-card-formatter" version="5.0.1"/></dependencies>
+    <dependencies><dependency id="sdcard-formatter" version="5.0.1"/></dependencies>
   </metadata>
   <files/>
 </package>
